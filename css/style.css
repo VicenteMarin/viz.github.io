@@ -650,7 +650,7 @@ h3.w3-head-project {
 }
  .title-w3ls h4,.w3ls-heading h3,.w3-gallery-head h3,.w3-about-head h3{
 	font-size:3em;
-    color:#00bcd4;
+    color:#d4009be1;
 	font-weight: 600;
 	text-align:center;
 	text-transform:uppercase;
@@ -687,7 +687,7 @@ h3.w3-head-project {
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .w3-edu-grid-header h3 {
-       color: #00bcd4;
+       color: #d4009be1;
     font-size: 3em;
         font-family: 'Poppins', sans-serif;
 	
